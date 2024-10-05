@@ -1,0 +1,1 @@
+U DenseNN jsem se snažil hrát se všemi paramemetry. Mým osobním cílem bylo dostatat se pře 90% accuracy, ale to se bohužel nepovedlo. Zjistil jsem, že je poměrně efektivní snížit batch na 64 zvýšit počet epoch na 50, což mi přineslo poměrně nízká čísla u loss.
